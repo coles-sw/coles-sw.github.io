@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["4B36ZB6Y7K.au.com.coles.Shopmate"],
+                "components": []
+            },
+            {
+                "appIDs": ["4B36ZB6Y7K.au.com.coles.Shopmate.debug"],
+                "components": [
+                    {
+                        "/": "/order-tracker"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
