@@ -10,6 +10,9 @@
                 "components": [
                     {
                         "/": "/order-tracker"
+                    },
+                    {
+                        "/": "/list-invite/*"
                     }
                 ]
             }
