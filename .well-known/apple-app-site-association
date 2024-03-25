@@ -13,6 +13,9 @@
                     },
                     {
                         "/": "/list-invite/*"
+                    },
+                    {
+                        "/": "/auth-callback/*"
                     }
                 ]
             }
